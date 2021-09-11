@@ -1,4 +1,4 @@
-# beauty
+# flutter_auth_MVVM
 SingIn 
 <img src="https://user-images.githubusercontent.com/48431147/132960586-61f48ee0-ffd2-4a33-b8b4-60641d2cdaa1.png" width="200" height="400" />
 SingUp
