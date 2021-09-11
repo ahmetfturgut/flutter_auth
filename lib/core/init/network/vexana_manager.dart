@@ -10,8 +10,8 @@ class VexanaManager {
     return _instace!;
   }
 
-  static const String _iosBaseUrl = 'http://192.168.1.35:3000/';
-  static const String _androidBaseUrl = 'http://192.168.1.35:3000/api/v1/';
+  static const String _iosBaseUrl = 'http://localhost:3000/api/v1/';
+  static const String _androidBaseUrl = 'http://localhost:3000/api/v1/';
 
   VexanaManager._init();
 
