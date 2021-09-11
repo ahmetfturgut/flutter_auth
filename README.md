@@ -1,6 +1,6 @@
 # beauty
-SingIn
-![S10911-22504945](https://user-images.githubusercontent.com/48431147/132960586-61f48ee0-ffd2-4a33-b8b4-60641d2cdaa1.png)
+SingIn 
+<img src="https://user-images.githubusercontent.com/48431147/132960586-61f48ee0-ffd2-4a33-b8b4-60641d2cdaa1.png" width="200" height="400" />
 SingUp
 ![S10911-22505513](https://user-images.githubusercontent.com/48431147/132960589-45cd8034-4f15-4932-8cfe-7774db9abcb4.png)
 
